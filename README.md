@@ -1,2 +1,2 @@
-# CSPMD_LA_LECON_DU_DOYEN_LE_JEU
+# CSPMD LA LECON DU DOYEN LE JEU
 Projet de Serious Social Educational Game inspiree de Michel DIRAT et ELBO
